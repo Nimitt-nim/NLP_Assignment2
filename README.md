@@ -1,2 +1,2 @@
 # NLP_Assignment2
-Training a Tokenizer and Transformer based Decoder model on Bengali Dataset
+Training a Tokenizer and LLAMA model on Bengali Dataset
