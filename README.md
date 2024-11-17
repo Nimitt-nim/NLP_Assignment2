@@ -1,2 +1,4 @@
 # NLP_Assignment2
-Training a Tokenizer and LLAMA model on Bengali Dataset
+Problem: Training a Tokenizer and LLAMA model on Bengali Dataset
+
+Note: Please check Documentation.pdf for evaluation
